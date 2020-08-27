@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/notchup/static/css/main.858196cd.chunk.css",
+    "main.js": "/notchup/static/js/main.300dea3b.chunk.js",
+    "main.js.map": "/notchup/static/js/main.300dea3b.chunk.js.map",
+    "runtime-main.js": "/notchup/static/js/runtime-main.7d982c59.js",
+    "runtime-main.js.map": "/notchup/static/js/runtime-main.7d982c59.js.map",
+    "static/css/2.ee241de9.chunk.css": "/notchup/static/css/2.ee241de9.chunk.css",
+    "static/js/2.3a9dc832.chunk.js": "/notchup/static/js/2.3a9dc832.chunk.js",
+    "static/js/2.3a9dc832.chunk.js.map": "/notchup/static/js/2.3a9dc832.chunk.js.map",
+    "index.html": "/notchup/index.html",
+    "precache-manifest.5badbf7eefafc225f7b7154b178c3584.js": "/notchup/precache-manifest.5badbf7eefafc225f7b7154b178c3584.js",
+    "service-worker.js": "/notchup/service-worker.js",
+    "static/css/2.ee241de9.chunk.css.map": "/notchup/static/css/2.ee241de9.chunk.css.map",
+    "static/css/main.858196cd.chunk.css.map": "/notchup/static/css/main.858196cd.chunk.css.map",
+    "static/js/2.3a9dc832.chunk.js.LICENSE.txt": "/notchup/static/js/2.3a9dc832.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d982c59.js",
+    "static/css/2.ee241de9.chunk.css",
+    "static/js/2.3a9dc832.chunk.js",
+    "static/css/main.858196cd.chunk.css",
+    "static/js/main.300dea3b.chunk.js"
+  ]
+}
