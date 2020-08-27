@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "23e16e275b513afcda8dd187eacf43a7",
+    "revision": "af78d5d5bbf143405b1f870a280e4ecf",
     "url": "/notchup/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/notchup/static/css/2.ee241de9.chunk.css"
   },
   {
-    "revision": "02069e02a8bb970f0026",
-    "url": "/notchup/static/css/main.858196cd.chunk.css"
+    "revision": "b20a725e6416c895109b",
+    "url": "/notchup/static/css/main.6204768e.chunk.css"
   },
   {
     "revision": "4126af8c255724025e64",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/notchup/static/js/2.3a9dc832.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "02069e02a8bb970f0026",
+    "revision": "b20a725e6416c895109b",
     "url": "/notchup/static/js/main.300dea3b.chunk.js"
   },
   {
